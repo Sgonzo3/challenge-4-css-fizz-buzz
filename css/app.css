@@ -11,4 +11,5 @@ tr:nth-child(5n) {
 /* set background for multiples of 3 & 5 */
 tr:nth-child(15n) {
   background-color: #262E40;
+  color: rgba(234, 234, 234, 1);
 }
