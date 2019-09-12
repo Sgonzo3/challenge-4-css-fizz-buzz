@@ -1,13 +1,11 @@
-# challenge[4]  CSS Fizz Buzz
+# challenge 4: CSS Fizz Buzz
 
-http://codecorgi.co/challenge/4/css-fizz-buzz
+Challenge done as part of CodeCorgi
 
-Code for the challenge[4] on the code corgi platform
+## Instructions 
 
-Use CSS to change the colors of the rows on the table so it's easier to read.
+A chart with listings numbered 1 to 100 is dislayed.
 
-For a row which position is a multiple of 3 make the background of the row this color: #6276A3,
-for every 5th row make the background this color: #8AA6E5, and for rows that are a multiple of both
-change the background color to #262E40.
+Each row whose listing number is divisible by three, five, or both three and five is given its own background color.
 
-You can add your code on the `css/app.css` file.
+Rows with listing numbers divisible by both three and five are also given a white color for their text.
